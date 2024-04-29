@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  margin: 2rem;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  margin-right: 2rem;
+}
+
+.imagecontainer {
+  width: 100vw;
+  margin-top: 2rem;
+  margin-left: -2rem;
+  background-color: black;
+}
